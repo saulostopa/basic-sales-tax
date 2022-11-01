@@ -70,7 +70,7 @@ Total: 98.38
 * [Jest](https://jestjs.io/)
 
 # Implementation
-* [Design Pattern](https://www.java67.com/2012/09/top-10-java-design-pattern-interview-question-answer.html)
+* [Strategy as Design Patterns](https://www.java67.com/2012/09/top-10-java-design-pattern-interview-question-answer.html)
 
 
 # Instalation
